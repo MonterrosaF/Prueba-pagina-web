@@ -407,7 +407,8 @@ textarea {
         float: left;
         border: 2px solid black;
         margin-left: 20px;
-        border-radius: 20px
+        border-radius: 20px;
+        cursor: pointer;
     }
 
     @media only screen and (min-width:480px){
@@ -594,7 +595,7 @@ textarea {
 
     ul.lista-servicios > li{
         padding: 10px;
-
+        cursor: pointer
     }
 
     @media only screen and (min-width:768px){
