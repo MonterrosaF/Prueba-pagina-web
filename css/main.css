@@ -229,9 +229,9 @@ textarea {
 
     @media only screen and (min-width: 768px){
         div.informacion-pagina{
-            width: 70%;
+            width: 60%;
             margin: 0 auto;
-            margin-top: 50px;
+            
         }
     }
 
@@ -244,16 +244,10 @@ textarea {
         text-align: right!important;
     }
 
-    h1.nombre-sitio{
-        font-size: 5.9vw;
-        text-transform: uppercase;
-        font-family: 'Slabo 27px', serif;
-    }
-    
     p.slogan{
         text-transform: none!important;
         color: black!important;
-        font-size: 36px!important;
+        font-size: 29px!important;
         text-align: right!important
     }
 
